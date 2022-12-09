@@ -1,7 +1,7 @@
 {
     "statuses": [
-        "One", "Two", "Three"
+        "Loading.", "Loading..", "Loading...", "Loading...."
     ],
 
-    "time": "1000"
+    "time": "500"
 }

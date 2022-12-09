@@ -28,5 +28,5 @@ setInterval(() => {
             }
         }
     })
-    console.log('Status updated');
+    console.log('STATUS HAS BEEN UPDATED!!');
 }, config.time)

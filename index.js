@@ -7,9 +7,8 @@ var status_index = 0;
 
 keepAlive()
 
-console.log('Discord Custom Status Changer by https://github.com/zbzyy');
-console.log('Modified by MrDarkShadoow');
-console.log('Your status will be updated in few seconds');
+console.log('Discord Custom Status Changer by https://github.com/QuietArtX');
+console.log('Dev by QuietArtX');
 
 setInterval(() => {
     request({

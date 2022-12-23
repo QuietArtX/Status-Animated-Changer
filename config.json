@@ -1,13 +1,16 @@
 {
     "statuses": [
+        "Connecting",
         "Connecting.",
         "Connecting..",
         "Connecting...",
         "Connecting....",
         "Connecting...",
         "Connecting..",
-        "Connecting."
+        "Connecting.",
+        "Connecting",
+        "Connected To Discord!"
      ],
 
-    "time": "900"
+    "time": "800"
 }
